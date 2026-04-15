@@ -1,5 +1,6 @@
-﻿using System.Diagnostics.CodeAnalysis;
-/*
+﻿using System;
+using System.Diagnostics.CodeAnalysis;
+
 //Ejercicio 1
 int suma = 0;
 for (int i = 0; i < 5; i++)
@@ -35,7 +36,7 @@ for (int i = 0; i < 5; i++)
     TotalFactura += Total;
 }
 Console.WriteLine($"El total de la factura es: {TotalFactura}");
-*/
+
 //Ejercicio 4
 int numero;
 int mayor = 0;
@@ -53,7 +54,7 @@ for (int i = 0; i < 8; i++)
     }
 }
 Console.WriteLine($"El numero mayor es: {mayor}");
-/*
+
 //Ejericicio 5
 string Cliente;
 float TotalCompra = 0;
@@ -99,4 +100,3 @@ for (int i = 0; i < numero; i++)
         Console.WriteLine(i);
     }
 }
-*/

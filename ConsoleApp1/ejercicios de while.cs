@@ -1,4 +1,4 @@
-/*
+
 //Ejercicio 1 y Ejercicio 2
 int suma = 0;
 int cantidad = 0;
@@ -41,7 +41,7 @@ while (CostoUnitario > 0)
     CostoUnitario = float.Parse(Console.ReadLine());
 }
 Console.WriteLine($"El total de la factura es: {TotalFactura}");
-*/
+
 //EJercicio 5
 float Costo = 0;
 Console.WriteLine("Ingrese la cantidad de productos utilizados por el cliente:");
