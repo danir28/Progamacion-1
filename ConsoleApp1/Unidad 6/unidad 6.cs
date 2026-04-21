@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+/*
 //Ejericio 1
 int[] numeros = new int[5];
 int suma = 0;
@@ -15,7 +16,7 @@ for (int i = 0; i < 5; i++)
     suma += numeros[i];
 }
 Console.WriteLine($"La suma de los números es: {suma} ");
-
+*/
 //Ejercicio 2
 List<int> calificaciones = new List<int>();
 int suma1 = 0;
