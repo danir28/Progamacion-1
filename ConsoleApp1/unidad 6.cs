@@ -53,3 +53,10 @@ for (int i = 0; i < calificaciones.Count; i++)
         break;
     }
 }
+
+//Ejericio 4
+List<int> numeros = new List<int>();
+for (int i = 0; i < 5; i++)
+{
+    
+}
