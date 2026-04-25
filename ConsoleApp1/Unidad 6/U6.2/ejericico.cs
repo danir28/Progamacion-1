@@ -69,5 +69,26 @@ while (opcion != "X")
 Console.WriteLine($"Curso A: {CursoA} alumnos");
 Console.WriteLine($"Curso B: {CursoB} alumnos");
 Console.WriteLine($"Curso C: {CursoC} alumnos");
-*/
+
 //Ejercicio 3
+int[] numeros = {1, 2, 3, 4, 5, 2, 1};
+bool esSimetrico = true;
+
+for (int i = 0; i < numeros.Length / 2; i++)
+{
+    if (numeros[i] != numeros[numeros.Length - 1 - i])
+    {
+        esSimetrico = false;
+        break;
+    }
+}
+if (esSimetrico)
+{
+    Console.WriteLine("El arreglo es simétrico");
+}
+else
+{
+    Console.WriteLine("El arreglo no es simétrico");
+}
+*/
+//Ejercicio 4
