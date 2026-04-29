@@ -4,7 +4,7 @@ using System.Linq;
 
 //Ejercicio 1
 Console.WriteLine("califica el sevicio (1-5) 0 para salir: ");
-int calificacion =int.Parse(Console.ReadLine());
+int calificacion = int.Parse(Console.ReadLine());
 int n1 = 0, n2 = 0, n3 = 0, n4 = 0, n5 = 0;
 int usuarios = 0;
 while (calificacion != 0)
