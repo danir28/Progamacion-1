@@ -147,5 +147,42 @@ while (n3 != 0)
 int max = numeros2.Max();
 int min = numeros2.Min();
 Console.WriteLine($"El numero mayor es: {max}, y el minimos es {min}");
-*/
+
 //Ejercicio 10
+List<int> numeros3 = new List<int>();
+Console.WriteLine("Ingrese un numero: ");
+int n4 = int.Parse(Console.ReadLine());
+for (int i = 0; i < 5; i++)
+{
+    numeros3.Add(n4);
+    Console.WriteLine("Ingrese un numero: ");
+    n4 = int.Parse(Console.ReadLine());
+}
+for (int i = numeros3.Count - 1; i >= 0; i--)
+{
+    if (numeros3[i] < 0)
+    {
+        numeros3.RemoveAt(i);
+    }
+}
+Console.WriteLine("Los numeros sin negativos son: ");
+
+foreach (int n in numeros3)
+{
+    Console.WriteLine(n);
+}
+*/
+//Ejercicio 11
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine("Ingrese el nombre del alumno: ");
+    string nombre = Console.ReadLine();
+    Console.WriteLine("Ingrese la nota 1: ");
+    int nota1 = int.Parse(Console.ReadLine());
+    Console.WriteLine("Ingrese la nota 2: ");
+    int nota2 = int.Parse(Console.ReadLine());
+    Console.WriteLine("Ingrese la nota 3: ");
+    int nota3 = int.Parse(Console.ReadLine());
+    double promedio = (double)(nota1 + nota2 + nota3) / 3;
+    Console.WriteLine($"El promedio del alumno {nombre} es: {promedio:F2}");
+}
