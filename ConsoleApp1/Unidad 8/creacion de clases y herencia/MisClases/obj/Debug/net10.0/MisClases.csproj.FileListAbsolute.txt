@@ -1,0 +1,12 @@
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/creacion de clases y herencia/MisClases/bin/Debug/net10.0/MisClases.deps.json
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/creacion de clases y herencia/MisClases/bin/Debug/net10.0/MisClases.dll
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/creacion de clases y herencia/MisClases/bin/Debug/net10.0/MisClases.pdb
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/creacion de clases y herencia/MisClases/obj/Debug/net10.0/MisClases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/creacion de clases y herencia/MisClases/obj/Debug/net10.0/MisClases.AssemblyInfoInputs.cache
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/creacion de clases y herencia/MisClases/obj/Debug/net10.0/MisClases.AssemblyInfo.cs
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/creacion de clases y herencia/MisClases/obj/Debug/net10.0/MisClases.csproj.CoreCompileInputs.cache
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/creacion de clases y herencia/MisClases/obj/Debug/net10.0/MisClases.sourcelink.json
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/creacion de clases y herencia/MisClases/obj/Debug/net10.0/MisClases.dll
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/creacion de clases y herencia/MisClases/obj/Debug/net10.0/refint/MisClases.dll
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/creacion de clases y herencia/MisClases/obj/Debug/net10.0/MisClases.pdb
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/creacion de clases y herencia/MisClases/obj/Debug/net10.0/ref/MisClases.dll
