@@ -1,0 +1,12 @@
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/bin/Debug/net10.0/Clases.deps.json
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/bin/Debug/net10.0/Clases.dll
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/bin/Debug/net10.0/Clases.pdb
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/obj/Debug/net10.0/Clases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/obj/Debug/net10.0/Clases.AssemblyInfoInputs.cache
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/obj/Debug/net10.0/Clases.AssemblyInfo.cs
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/obj/Debug/net10.0/Clases.csproj.CoreCompileInputs.cache
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/obj/Debug/net10.0/Clases.sourcelink.json
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/obj/Debug/net10.0/Clases.dll
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/obj/Debug/net10.0/refint/Clases.dll
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/obj/Debug/net10.0/Clases.pdb
+/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/obj/Debug/net10.0/ref/Clases.dll
