@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/ConsolaPrueba/ConsolaPrueba.csproj": {}
+    "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema de Despliegue de Emergencia/ConsolaSistema/ConsolaSistema.csproj": {}
   },
   "projects": {
-    "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/Clases.csproj": {
+    "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema de Despliegue de Emergencia/Clases/Clases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/Clases.csproj",
+        "projectUniqueName": "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema de Despliegue de Emergencia/Clases/Clases.csproj",
         "projectName": "Clases",
-        "projectPath": "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/Clases.csproj",
+        "projectPath": "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema de Despliegue de Emergencia/Clases/Clases.csproj",
         "packagesPath": "/Users/danielrodriguez/.nuget/packages/",
-        "outputPath": "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/obj/",
+        "outputPath": "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema de Despliegue de Emergencia/Clases/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/danielrodriguez/.nuget/NuGet/NuGet.Config"
@@ -45,12 +45,6 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[10.0.10, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -345,14 +339,14 @@
         }
       }
     },
-    "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/ConsolaPrueba/ConsolaPrueba.csproj": {
+    "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema de Despliegue de Emergencia/ConsolaSistema/ConsolaSistema.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/ConsolaPrueba/ConsolaPrueba.csproj",
-        "projectName": "ConsolaPrueba",
-        "projectPath": "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/ConsolaPrueba/ConsolaPrueba.csproj",
+        "projectUniqueName": "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema de Despliegue de Emergencia/ConsolaSistema/ConsolaSistema.csproj",
+        "projectName": "ConsolaSistema",
+        "projectPath": "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema de Despliegue de Emergencia/ConsolaSistema/ConsolaSistema.csproj",
         "packagesPath": "/Users/danielrodriguez/.nuget/packages/",
-        "outputPath": "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/ConsolaPrueba/obj/",
+        "outputPath": "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema de Despliegue de Emergencia/ConsolaSistema/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/danielrodriguez/.nuget/NuGet/NuGet.Config"
@@ -368,8 +362,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/Clases.csproj": {
-                "projectPath": "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema Bancario/Clases/Clases.csproj"
+              "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema de Despliegue de Emergencia/Clases/Clases.csproj": {
+                "projectPath": "/Users/danielrodriguez/Documents/GitHub/Progamacion-1/ConsoleApp1/Unidad 8/Sistema de Despliegue de Emergencia/Clases/Clases.csproj"
               }
             }
           }
